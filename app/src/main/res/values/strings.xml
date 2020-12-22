@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Forecast</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number1">穿衣指数</string>
+    <string name="number2">洗车指数</string>
+    <string name="number3">感冒指数</string>
+    <string name="number4">运动指数</string>
+    <string name="number5">紫外线指数</string>
+</resources>
