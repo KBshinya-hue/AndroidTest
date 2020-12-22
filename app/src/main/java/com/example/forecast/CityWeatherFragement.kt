@@ -43,10 +43,6 @@ class CityWeatherFragement : Fragment() {
         return inflater.inflate(R.layout.fragment_city_weather_fragement, container, false)
     }
 
-    // TODO: Rename method, update argument and hook method into UI event
-    fun onButtonPressed(uri: Uri) {
-        listener?.onFragmentInteraction(uri)
-    }
 
     override fun onAttach(context: Context) {
         super.onAttach(context)
